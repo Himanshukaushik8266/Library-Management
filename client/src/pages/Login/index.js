@@ -35,7 +35,7 @@ function Login() {
   }, []);
 
   return (
-    <div className="h-screen bg-image flex items-center justify-center">
+    <div className="h-screen bg-secondary flex items-center justify-center">
       <div className="authentication-form bg-white p-3 rounded">
         <h1 className="text-secondary text-2xl font-bold mb-1">
           BookFlow-Login
