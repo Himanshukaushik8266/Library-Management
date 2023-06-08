@@ -3,7 +3,11 @@
     --colour-secondary: rgb(0, 145, 167);
 }
 
-
+.bg-image{
+    background-image: url('https://www.pixel-studios.com/blog/wp-content/uploads/2018/12/012-1200x600.jpg');
+    background-repeat:no-repeat;
+    background-size:cover;
+}
 .bg-primary {
     background-color: var(--colour-primary);
 }
